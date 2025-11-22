@@ -6,12 +6,13 @@ PPT 绘图模板---深度学习/机器学习/大模型整合版
 
 共98页PPT，包含了90+图片模板
 
-深度学习/机器学习部分包括：池化、各种卷积、MLP、决策树/随机森林、支持向量机、注意力系列、残差块、Transformer及变体、ViT、YOIOv5S、RNN、ASPP、VGG-19、U-Net系列、LSTM系列、LST、DPL、GAN、LSTNet、DiffusionModel等内容
+深度学习/机器学习部分包括：池化、各种卷积、MLP、决策树/随机森林、支持向量机、注意力系列、残差块、Transformer及变体、ViT、YOIOv5S、RNN、ASPP、VGG-19、U-Net系列、LSTM系列(LSTM、Bi-LSTM、xLSTM)、LST、DPL、GAN、LSTNet、DiffusionModel、多头注意力、自注意力、GAM、CBAM、SE、ECA、通道注意力(CAM)、空间注意力(PAM)、硬注意力机制、瓶颈注意力机制、TripletAttention、极化自注意力、交叉注意力、稀疏注意力等内容
 
 大模型部分包括：RAG(Multimodal RAG、Naive RAGAdvanced RAG、 Modular RAG.RA-LLMs)、Agent、LLM(多模态LLM、Llama 3、Qwen 2、DeepSeekMoE、DeepSeek-V2/V3)、MCP、预训练模型(ELMO、GPT-1、BERT)、Transformer及其变体(Swin Transformer、Visual Transformer、DETR)、VLM(CLIPBLIP、BEIT-3、MobileVLM V2)、嵌入模型、多模态分割模型、Pre-Traning、Fine-Tuning 等
 
 额外附赠130页开源 ML Visuals 机器学习画图模板，一起搭配使用更佳。
-部分图片标注了论文出处。
+
+大部分图片标注了论文出处。
 
 链接1：
 https://mall.bilibili.com/neul-next/detailuniversal/detail.html?isMerchant=1&page=detailuniversal_detail&saleType=10&itemsId=12448817&loadingShow=1&noTitleBar=1&msource=merchant_share
@@ -32,6 +33,7 @@ https://mall.bilibili.com/neul-next/detailuniversal/detail.html?isMerchant=1&pag
 <img width="1720" height="792" alt="微信图片_20250511151517" src="https://github.com/user-attachments/assets/5f038cc3-74f6-40f9-9b6d-fe832753cb1f" />
 <img width="1315" height="730" alt="微信图片_20250511161325" src="https://github.com/user-attachments/assets/8ba2adf6-9a59-4697-98c1-7530b2ec56e7" />
 <img width="1194" height="730" alt="微信图片_20250511161141" src="https://github.com/user-attachments/assets/4321ea93-ff96-445d-9e4e-0be7f15ce7a7" />
+
 <img width="1502" height="846" alt="12加水印后图片 " src="https://github.com/user-attachments/assets/46822d9d-b510-4efd-a9bb-7587e1291657" />
 <img width="1500" height="848" alt="11加水印后图片 " src="https://github.com/user-attachments/assets/f337398e-2f75-46e6-9e84-f8c4ee9cb84e" />
 <img width="1502" height="843" alt="9加水印后图片 " src="https://github.com/user-attachments/assets/7f51c0f2-7046-4d92-88bb-caf4bc621112" />
