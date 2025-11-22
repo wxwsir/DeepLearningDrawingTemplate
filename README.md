@@ -1,4 +1,4 @@
-# DrawingTemplate-Deep-Learning-Machine-Learning-Large-Model
+<img width="1726" height="656" alt="微信图片_20251121213634_785_9" src="https://github.com/user-attachments/assets/e0e8fc7d-e318-44c0-912a-cf81c3b7b80a" /># DrawingTemplate-Deep-Learning-Machine-Learning-Large-Model
 深度学习-机器学习-大模型PPT绘图模板
 
 PPT 绘图模板---深度学习/机器学习/大模型整合版
@@ -33,7 +33,7 @@ https://mall.bilibili.com/neul-next/detailuniversal/detail.html?isMerchant=1&pag
 <img width="1720" height="792" alt="微信图片_20250511151517" src="https://github.com/user-attachments/assets/5f038cc3-74f6-40f9-9b6d-fe832753cb1f" />
 <img width="1315" height="730" alt="微信图片_20250511161325" src="https://github.com/user-attachments/assets/8ba2adf6-9a59-4697-98c1-7530b2ec56e7" />
 <img width="1194" height="730" alt="微信图片_20250511161141" src="https://github.com/user-attachments/assets/4321ea93-ff96-445d-9e4e-0be7f15ce7a7" />
-
+<img width="1726" height="656" alt="微信图片_20251121213634_785_9" src="https://github.com/user-attachments/assets/e7eac7fc-fa52-4ee5-a345-83ced679e4a9" />
 <img width="1502" height="846" alt="12加水印后图片 " src="https://github.com/user-attachments/assets/46822d9d-b510-4efd-a9bb-7587e1291657" />
 <img width="1500" height="848" alt="11加水印后图片 " src="https://github.com/user-attachments/assets/f337398e-2f75-46e6-9e84-f8c4ee9cb84e" />
 <img width="1502" height="843" alt="9加水印后图片 " src="https://github.com/user-attachments/assets/7f51c0f2-7046-4d92-88bb-caf4bc621112" />
