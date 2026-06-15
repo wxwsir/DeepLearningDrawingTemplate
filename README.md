@@ -1,5 +1,7 @@
 # DrawingTemplate-Deep-Learning-Machine-Learning-Large-Model 深度学习-机器学习-大模型PPT绘图模板
 
+2026.06.15 起公开
+
 PPT 绘图模板---深度学习/机器学习/大模型整合版
 适用于从事深度学习、大模型相关领域的模型结构图绘制，所有模板的线条、结构、文字均支持100% 自定义修改！无论是调整线条粗细、改变节点颜色，还是替换专业术语，都能轻松实现。
 
@@ -13,14 +15,6 @@ PPT 绘图模板---深度学习/机器学习/大模型整合版
 
 大部分图片标注了论文出处。
 
-链接1：
-https://mall.bilibili.com/neul-next/detailuniversal/detail.html?isMerchant=1&page=detailuniversal_detail&saleType=10&itemsId=12448817&loadingShow=1&noTitleBar=1&msource=merchant_share
-
-链接2：
-https://mall.bilibili.com/neul-next/detailuniversal/detail.html?isMerchant=1&page=detailuniversal_detail&saleType=10&itemsId=12448649&loadingShow=1&noTitleBar=1&msource=merchant_share
-
-链接3：
-https://mall.bilibili.com/neul-next/detailuniversal/detail.html?isMerchant=1&page=detailuniversal_detail&saleType=10&itemsId=11375759&loadingShow=1&noTitleBar=1&msource=merchant_share
 
 <img width="1097" height="679" alt="微信图片_20250511154902" src="https://github.com/user-attachments/assets/cb99093a-6870-4955-a5c7-1e01f1adf6ba" />
 <img width="1727" height="794" alt="微信图片_20250511151427" src="https://github.com/user-attachments/assets/f9a04eaa-77b1-401e-a421-5959a338b21c" />
