@@ -11,8 +11,6 @@ PPT 绘图模板---深度学习/机器学习/大模型整合版
 
 大模型部分包括：RAG(Multimodal RAG、Naive RAGAdvanced RAG、 Modular RAG.RA-LLMs)、Agent、LLM(多模态LLM、Llama 3、Qwen 2、DeepSeekMoE、DeepSeek-V2/V3)、MCP、预训练模型(ELMO、GPT-1、BERT)、Transformer及其变体(Swin Transformer、Visual Transformer、DETR)、VLM(CLIPBLIP、BEIT-3、MobileVLM V2)、嵌入模型、多模态分割模型、Pre-Traning、Fine-Tuning 等
 
-额外附赠130页开源 ML Visuals 机器学习画图模板，一起搭配使用更佳。
-
 大部分图片标注了论文出处。
 
 
