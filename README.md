@@ -7,7 +7,7 @@ PPT 绘图模板---深度学习/机器学习/大模型整合版
 
 共100+页PPT，包含了100+图片模板
 
-深度学习/机器学习部分包括：池化、各种卷积、MLP、决策树/随机森林、支持向量机、注意力系列、残差块、Transformer及变体、ViT、YOIOv5S、RNN、ASPP、VGG-19、U-Net系列、LSTM系列(LSTM、Bi-LSTM、xLSTM)、LST、DPL、GAN、LSTNet、DiffusionModel、多头注意力、自注意力、GAM、CBAM、SE、ECA、通道注意力(CAM)、空间注意力(PAM)、硬注意力机制、瓶颈注意力机制、TripletAttention、极化自注意力、交叉注意力、稀疏注意力等内容
+深度学习/机器学习、注意力部分包括：池化、各种卷积、MLP、决策树/随机森林、支持向量机、注意力系列、残差块、Transformer及变体、ViT、YOIOv5S、RNN、ASPP、VGG-19、U-Net系列、LSTM系列(LSTM、Bi-LSTM、xLSTM)、LST、DPL、GAN、LSTNet、DiffusionModel、多头注意力、自注意力、GAM、CBAM、SE、ECA、通道注意力(CAM)、空间注意力(PAM)、硬注意力机制、瓶颈注意力机制、TripletAttention、极化自注意力、交叉注意力、稀疏注意力等内容
 
 大模型部分包括：RAG(Multimodal RAG、Naive RAGAdvanced RAG、 Modular RAG.RA-LLMs)、Agent、LLM(多模态LLM、Llama 3、Qwen 2、DeepSeekMoE、DeepSeek-V2/V3)、MCP、预训练模型(ELMO、GPT-1、BERT)、Transformer及其变体(Swin Transformer、Visual Transformer、DETR)、VLM(CLIPBLIP、BEIT-3、MobileVLM V2)、嵌入模型、多模态分割模型、Pre-Traning、Fine-Tuning 等
 
