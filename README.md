@@ -1,6 +1,6 @@
 # DrawingTemplate-Deep-Learning-Machine-Learning-Large-Model 深度学习-机器学习-大模型PPT绘图模板
 
-## 2026.06.15 起公开
+## 2026.06.15 - 3026.06.15 Open
 
 深度学习/机器学习/大模型 PPT 绘图模板
 
